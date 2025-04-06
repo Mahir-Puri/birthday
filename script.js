@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 2000);
 
     // Typing effect for the message
-    const message = "On this special day, I just wanted to take a moment to tell you how amazing you are. Your smile brightens my day, your laugh is my favorite sound, and your presence makes everything better. I hope this year brings you all the happiness you deserve. Happy birthday, beautiful!";
+    const message = "On this special day, I just wanted to take a moment to tell you how amazing you are. Your smile brightens my day. I may not be the handsome guy you met, but I would definitely be your biggest supporter, and I would like to be around you in every stage of your life. I hope this year brings you all the happiness you deserve. Happy birthday, beautifulll!";
     const typedTextElement = document.querySelector('.typed-text');
     let i = 0;
     
